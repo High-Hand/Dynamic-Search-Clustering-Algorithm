@@ -4,7 +4,7 @@ Dynamic-Search-Clustering-Algorithm with Anti-noise   (doufu110511@outlook.com)
 
 
 
-Samples:
+Pictures:
 
 
 
@@ -34,3 +34,19 @@ moon
 
 spiral
 ![spiral](https://user-images.githubusercontent.com/31699390/160645998-697d11ac-f896-438b-b7d4-4abb0925a787.png)
+
+Videos:
+
+breaker
+
+https://user-images.githubusercontent.com/31699390/160658888-aa89fb18-0bd8-48c4-b919-a78a32519e52.mp4
+
+walker
+
+https://user-images.githubusercontent.com/31699390/160658951-615f26eb-3938-42b4-a3b1-1bb5ba2966f2.mp4
+
+crasher
+
+https://user-images.githubusercontent.com/31699390/160659008-cbd619f8-dfff-495d-a9ee-37fd9718b3ea.mp4
+
+
