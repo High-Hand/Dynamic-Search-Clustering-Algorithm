@@ -1,5 +1,5 @@
 # Dynamic-Search-Clustering-Algorithm
-dynamic search clustering algorithm with anti-noise 
+Dynamic-Search-Clustering-Algorithm with Anti-noise   (email: doufu110511@outlook.com)
 
 
 input:  the original data
