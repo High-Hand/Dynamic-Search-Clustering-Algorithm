@@ -1,12 +1,6 @@
 # Dynamic-Search-Clustering-Algorithm
-Dynamic-Search-Clustering-Algorithm with Anti-noise   (email: doufu110511@outlook.com)
+Dynamic-Search-Clustering-Algorithm with Anti-noise   (doufu110511@outlook.com)
 
-
-input:  the original data
-
-middle: prediction after dynamic search clustering algorithm
-
-output: prediction after dynamic search clustering algorithm and hookup
 
 
 
