@@ -45,8 +45,3 @@ walker
 
 https://user-images.githubusercontent.com/31699390/160658951-615f26eb-3938-42b4-a3b1-1bb5ba2966f2.mp4
 
-crasher
-
-https://user-images.githubusercontent.com/31699390/160659008-cbd619f8-dfff-495d-a9ee-37fd9718b3ea.mp4
-
-
