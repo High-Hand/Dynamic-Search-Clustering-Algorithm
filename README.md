@@ -17,7 +17,7 @@ car and motor
 circle
 ![circle](https://user-images.githubusercontent.com/31699390/160645941-a33adee0-c432-478c-b63d-a957ac62c0bb.png)
 
-dot
+gauss
 ![cluster](https://user-images.githubusercontent.com/31699390/160645949-754ef23c-0b75-4587-bfc8-26825f51e53a.png)
 
 hands
@@ -25,6 +25,9 @@ hands
 
 lines
 ![line](https://user-images.githubusercontent.com/31699390/160645983-4bc75632-f7ba-4d60-b919-a9faa2c28889.png)
+
+bench
+![bench](https://user-images.githubusercontent.com/31699390/160659926-f19e90f4-a28c-47c1-89ff-bfa2d6f3332e.png)
 
 man
 ![man](https://user-images.githubusercontent.com/31699390/160645987-8ddb9fef-3e0e-4fb1-a464-589fb5829661.png)
