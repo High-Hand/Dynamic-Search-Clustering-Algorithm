@@ -4,7 +4,7 @@ Dynamic-Search-Clustering-Algorithm with Anti-noise   (doufu110511@outlook.com)
 
 
 
-sample:
+Samples:
 
 
 
